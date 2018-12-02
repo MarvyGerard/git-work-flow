@@ -7,3 +7,8 @@ Feature1{
 	if X = Y;
 	return = xy;
 }
+
+Feature2{
+	if Y = X
+	return = false;
+}
